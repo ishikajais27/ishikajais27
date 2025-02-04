@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?uid=R185969958&ga=GA1.1.1128850130.1738706469" alt="Banner" width="100%" height="240px"/>
+  <img src="https://img.freepik.com/premium-vector/happy-programmers-day-banner-modern-style_541170-3217.jpg?w=1380" alt="Banner" width="100%" height="240px"/>
 </p>
 
 # Hello, World! 👋 I'm Ishika Jaiswal
