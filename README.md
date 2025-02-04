@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[Your banner image URL]" alt="Banner" width="100%"/>
+  <img src="https://www.canva.com/design?create&type=TAB7AVEOUWQ&template=EAE0FkpR_lM&category=tACZCvjI6mE&analyticsCorrelationId=e589490b-146f-43b5-9eee-9dbe0bbdc7b2" alt="Banner" width="100%"/>
 </p>
 
 # Hello, World! 👋 I'm [Your Name]
