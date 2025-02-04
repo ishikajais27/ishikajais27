@@ -1,9 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?uid=R185969958&ga=GA1.1.1128850130.1738706469" alt="Banner" width="100%"/>
+  <img src="https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?uid=R185969958&ga=GA1.1.1128850130.1738706469" alt="Banner" width="100%" height="240px"/>
 </p>
 
-# Hello, World! 👋 I'm [Your Name]
+# Hello, World! 👋 I'm Ishika Jaiswal
 
 ## Intro:
 
@@ -19,7 +19,7 @@ I am a passionate developer with a love for building innovative solutions. Let's
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ishika-jaiswal-96b3b4284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/ishika-jaiswal-96b3b4284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linked In:-
     <img src="https://media.licdn.com/dms/image/v2/D5603AQFk2hBa0ELZNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712754060630?e=1744243200&v=beta&t=NHt7z6WTxpACZlvdG--eMDPk0bOVvh152f3Uq3sP8CY" alt="LinkedIn" height="30" width="40" />
   </a>
   <!-- Add more social links as needed -->
