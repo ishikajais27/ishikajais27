@@ -1,41 +1,95 @@
 ![logo](https://files.oaiusercontent.com/file-TdLBXY3RNmZNL1cMzJ58jJ?se=2025-02-12T11%3A24%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df1d456c9-8c1d-4fd5-995a-85ae14bcc06c.webp&sig=rBT4FJ7LDc2qEHVALNG448dBrGvrQCCIjgY9UzIdaiI%3D)
 
-<h1 align="center">Hi 👋, I'm ISHIKA JAISWAL>
-<h3 align="left"><b>Developer Tech Enthusiast<b>: I’m a second-year Computer Science student who loves building websites using
-HTML, CSS, JavaScript, React, and Tailwind. I’m currently exploring Next.js to dive into backend development. I also
-enjoy working with C, Java, and DSA to sharpen my problem-solving skills.
-Robotics Projects:
-With Team ITJ, I built robots like Track Tracer (line-following), Sand Rover (for sandy terrains), and Droid Blitz
-(obstacle-avoiding) using Arduino, Raspberry Pi, and sensors. We showcased them at IIT Patna and IIT Kharagpur tech
-fests..
-What I Bring:
-Strong web development and problem-solving skills. Experience in team projects and creative thinking.</h3>
+<h1 align="center">Hi 👋, I'm Ishika Jaiswal</h1>
 
-<img align="right" alt="coding" width="400" src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696219ad6dcda40f9fa8ab6/1721115042117/16.gif?format=1500w">
+<h3 align="center">Developer | Tech Enthusiast | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishayan06&label=Profile%20views&color=0e75b6&style=flat" alt="ishayan06" /> </p>
-
-- 🌱 I’m currently learning **express.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ishayan06](https://github.com/Ishayan06)
-
-- 💬 Ask me about **react,tailwind**
-
-- 📫 How to reach me **ishayankundu6@gmail.com**
-
-- 📄 Know about my experiences [https://brown-orelle-47.tiiny.site](https://brown-orelle-47.tiiny.site)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ishayan-kundu-2790202b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishayan kundu" height="30" width="40" /></a>
-<a href="https://fb.com/ishayan kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishayan kundu" height="30" width="40" /></a>
-<a href="https://instagram.com/ishayan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishayan_06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishayan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishayan_06" height="30" width="40" /></a>
+🚀 I’m a second-year Computer Science student passionate about **Full-Stack Web Development, Robotics, and AI.**  
+💻 I love **building websites** using **HTML, CSS, JavaScript, React, and Tailwind** and exploring **Next.js** for backend development.  
+🤖 With **Team ITJ**, I’ve built robots like **Track Tracer (line-following)**, **Sand Rover (sandy terrain bot)**, and **Droid Blitz (obstacle-avoiding bot)** using **Arduino, Raspberry Pi, and sensors**.  
+🎯 My goal is to **enhance my backend skills** and **create impactful projects** that blend technology with creativity.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696219ad6dcda40f9fa8ab6/1721115042117/16.gif?format=1500w">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishayan06&show_icons=true&locale=en&layout=compact" alt="ishayan06" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishayan06&show_icons=true&locale=en" alt="ishayan06" /></p>
+### 📚 Education
+
+🎓 **B.Tech in Computer Science Engineering**  
+📍 _Kalinga Institute of Industrial Technology, Bhubaneswar_ (2023 - 2027)
+
+---
+
+### 🛠️ Skills
+
+- **Languages**: C, Java, JavaScript, HTML, CSS
+- **Frontend**: React.js, Tailwind CSS, Bootstrap
+- **Backend**: Express.js, SQL, Appwrite
+- **Tech Tools**: Arduino, Raspberry Pi, MATLAB
+
+<!-- ---
+
+### 🌟 Projects
+
+#### 🔥 [Zombies Apocalypse](https://github.com/ishikajais27/Hackathon_01)
+
+- A **city survival simulation** built with **HTML, CSS, and JavaScript**.
+- Includes **dynamic zombie movement**, **resource collection mechanics**, and **escape route suggestions**.
+
+#### 🎮 [PythOWO: UwU-fied Python Interpreter](https://github.com/ishikajais27/UwUCodeCrafter)
+
+- Custom **Python interpreter** with kawaii syntax (`FWUNCTION, IF/EWIF/EWSE`).
+- Integrated **Hugging Face AI model** for **real-time code transformation**.
+
+#### 🎥 [CodeSaga: Where Coding Meets Anime](https://github.com/ishikajais27/CodeCupBoard)
+
+- A **React.js-based** anime listing and coding tracker.
+- **Appwrite backend**, **AniList API for anime data**, and **Framer Motion animations**.
+
+--- -->
+
+### 🚀 Experience
+
+👩‍💻 **Web Development E-Lab Society**
+
+- Worked on **team-based web development projects**, improving coding and **collaboration skills**.
+
+🤖 **Team ITJ | KIIT Electrical Society**
+
+- Built **AI-powered robots** and showcased them at **IIT Patna & IIT Kharagpur Tech Fests**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishikajais27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishikajais27&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ishika-jaiswal-96b3b4284/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/ishikajais27" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/ishikajais_27/6" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+💡 I enjoy **coding late at night, anime marathons, and exploring AI-powered projects!**
