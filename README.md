@@ -5,10 +5,10 @@
 <h3 align="center">Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="left">
-🚀 I’m a second-year Computer Science student passionate about **Full-Stack Web Development, Robotics, and AI.**  
-💻 I love **building websites** using **HTML, CSS, JavaScript, React, and Tailwind** and exploring **Next.js** for backend development.  
-🤖 With **Team ITJ**, I’ve built robots like **Track Tracer (line-following)**, **Sand Rover (sandy terrain bot)**, and **Droid Blitz (obstacle-avoiding bot)** using **Arduino, Raspberry Pi, and sensors**.  
-🎯 My goal is to **enhance my backend skills** and **create impactful projects** that blend technology with creativity.
+🚀 I’m a second-year Computer Science student passionate about Full-Stack Web Development, Robotics, and AI. 
+💻 I love building websites using HTML, CSS, JavaScript, React, and Tailwind and exploring Next.js for backend development.  
+🤖 With Team ITJ, I’ve built robots like Track Tracer (line-following), Sand Rover (sandy terrain bot), and **Droid Blitz (obstacle-avoiding bot) using Arduino, Raspberry Pi, and sensors.  
+🎯 My goal is to enhance my backend skills and create impactful projects that blend technology with creativity.
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696219ad6dcda40f9fa8ab6/1721115042117/16.gif?format=1500w">
