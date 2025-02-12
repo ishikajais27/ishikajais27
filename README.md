@@ -1,4 +1,4 @@
-![logo](https://github.com/Ishayan06/Ishayan06/blob/main/github%20bg.jpg)
+![logo](https://files.oaiusercontent.com/file-TdLBXY3RNmZNL1cMzJ58jJ?se=2025-02-12T11%3A24%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df1d456c9-8c1d-4fd5-995a-85ae14bcc06c.webp&sig=rBT4FJ7LDc2qEHVALNG448dBrGvrQCCIjgY9UzIdaiI%3D)
 
 <h1 align="center">Hi 👋, I'm ISHIKA JAISWAL>
 <h3 align="left"><b>Developer Tech Enthusiast<b>: I’m a second-year Computer Science student who loves building websites using
@@ -11,7 +11,7 @@ fests..
 What I Bring:
 Strong web development and problem-solving skills. Experience in team projects and creative thinking.</h3>
 
-<img align="right" alt="coding" width="400" src="https://files.oaiusercontent.com/file-TdLBXY3RNmZNL1cMzJ58jJ?se=2025-02-12T11%3A24%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df1d456c9-8c1d-4fd5-995a-85ae14bcc06c.webp&sig=rBT4FJ7LDc2qEHVALNG448dBrGvrQCCIjgY9UzIdaiI%3D">
+<img align="right" alt="coding" width="400" src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696219ad6dcda40f9fa8ab6/1721115042117/16.gif?format=1500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishayan06&label=Profile%20views&color=0e75b6&style=flat" alt="ishayan06" /> </p>
 
