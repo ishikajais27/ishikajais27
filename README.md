@@ -1,4 +1,4 @@
-![logo](https://files.oaiusercontent.com/file-TdLBXY3RNmZNL1cMzJ58jJ?se=2025-02-12T11%3A24%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df1d456c9-8c1d-4fd5-995a-85ae14bcc06c.webp&sig=rBT4FJ7LDc2qEHVALNG448dBrGvrQCCIjgY9UzIdaiI%3D)
+![logo](https://img.freepik.com/premium-photo/anime-girl-using-laptop-city-night_1282444-139680.jpg)
 
 <h1 align="center">Hi 👋, I'm Ishika Jaiswal</h1>
 
