@@ -1,95 +1,48 @@
-![logo](https://img.freepik.com/premium-photo/anime-girl-using-laptop-city-night_1282444-139680.jpg)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ishika Jaiswal</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishika+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+%7C+Blockchain;I+build+things+that+actually+work.)
 
-<h3 align="center">Developer | Tech Enthusiast | Problem Solver</h3>
+</div>
 
-<p align="left">
-🚀 I’m a second-year Computer Science student passionate about Full-Stack Web Development, Robotics, and AI. 
-💻 I love building websites using HTML, CSS, JavaScript, React, and Tailwind and exploring Next.js for backend development.  
-🤖 With Team ITJ, I’ve built robots like Track Tracer (line-following), Sand Rover (sandy terrain bot), and **Droid Blitz (obstacle-avoiding bot) using Arduino, Raspberry Pi, and sensors.  
-🎯 My goal is to enhance my backend skills and create impactful projects that blend technology with creativity.
-</p>
+### whoami
 
-<img align="right" alt="Coding" width="400" src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696219ad6dcda40f9fa8ab6/1721115042117/16.gif?format=1500w">
+CS undergrad who gets unreasonably invested in how systems actually work auth flows, LLM trust boundaries, why your infra breaks at 3am.  
+Currently exploring agentic pipelines and on-chain logic. Always building something.
 
----
+### shipped
 
-### 📚 Education
+| Project | What it does | Stack |
+|---|---|---|
+| [**KrishiMitra**](https://github.com/ishikajais27/KrishiMitra) | AI platform for farmers voice bot, crop disease detection, live mandi prices | Groq · OpenCV · Agmarknet API |
+| [**VibeFiles**](https://github.com/ishikajais27/VibeFiles) | Screenshot → file scaffold. Published on VS Code Marketplace | TypeScript · Groq Vision · Vercel |
+| [**GitFolio**](https://github.com/ishikajais27/GitFolio) | Auto-generate your GitHub portfolio README | MERN · GitHub OAuth · JWT |
+| [**RepoDoc**](https://github.com/ishikajais27/RepoDoc) | AI doc generator  grounded, schema-validated, no hallucinations | Next.js · Agentic LLM · docx |
 
-🎓 **B.Tech in Computer Science Engineering**  
-📍 _Kalinga Institute of Industrial Technology, Bhubaneswar_ (2023 - 2027)
+### stack
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🛠️ Skills
+<div align="center">
 
-- **Languages**: C, Java, JavaScript, HTML, CSS
-- **Frontend**: React.js, Tailwind CSS, Bootstrap
-- **Backend**: Express.js, SQL, Appwrite
-- **Tech Tools**: Arduino, Raspberry Pi, MATLAB
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ishikajais27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikajais27&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<!-- ---
+</div>
 
-### 🌟 Projects
+<div align="center">
 
-#### 🔥 [Zombies Apocalypse](https://github.com/ishikajais27/Hackathon_01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-jaiswal-96b3b4284/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blush-xi-30.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ishikajais_27/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikajais09876@gmail.com)
 
-- A **city survival simulation** built with **HTML, CSS, and JavaScript**.
-- Includes **dynamic zombie movement**, **resource collection mechanics**, and **escape route suggestions**.
+![Profile Views](https://komarev.com/ghpvc/?username=ishikajais27&style=flat-square&color=A78BFA)
 
-#### 🎮 [PythOWO: UwU-fied Python Interpreter](https://github.com/ishikajais27/UwUCodeCrafter)
-
-- Custom **Python interpreter** with kawaii syntax (`FWUNCTION, IF/EWIF/EWSE`).
-- Integrated **Hugging Face AI model** for **real-time code transformation**.
-
-#### 🎥 [CodeSaga: Where Coding Meets Anime](https://github.com/ishikajais27/CodeCupBoard)
-
-- A **React.js-based** anime listing and coding tracker.
-- **Appwrite backend**, **AniList API for anime data**, and **Framer Motion animations**.
-
---- -->
-
-### 🚀 Experience
-
-👩‍💻 **Web Development E-Lab Society**
-
-- Worked on **team-based web development projects**, improving coding and **collaboration skills**.
-
-🤖 **Team ITJ | KIIT Electrical Society**
-
-- Built **AI-powered robots** and showcased them at **IIT Patna & IIT Kharagpur Tech Fests**.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishikajais27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishikajais27&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ishika-jaiswal-96b3b4284/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://github.com/ishikajais27" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/ishikajais_27/6" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-💡 I enjoy **coding late at night, anime marathons, and exploring AI-powered projects!**
+</div>
