@@ -39,7 +39,7 @@ const ishika = {
 
 ### 🛠 stack
 
-**Web2 — where I live**
+**Web2**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -52,7 +52,7 @@ const ishika = {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Web3 — where I'm going**
+**Web3**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000?style=flat-square&logo=ethereum&logoColor=white)
