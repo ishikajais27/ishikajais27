@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+%E2%80%94+I'm+Ishika+%F0%9F%91%8B;I+build+for+the+web.+Web2+%26+Web3.;Full-stack+first.+AI+when+it+makes+sense.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+%E2%80%94+I'm+Ishika+%F0%9F%91%8B;)
 
 <br/>
 
