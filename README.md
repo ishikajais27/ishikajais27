@@ -31,7 +31,6 @@ const ishika = {
 | Project | what it is | core tech |
 |---|---|---|
 | [**GitFolio**](https://github.com/ishikajais27/GitFolio) | GitHub OAuth → live portfolio README generator | MERN · JWT · GitHub REST API |
-| [**KrishiMitra**](https://github.com/ishikajais27/KrishiMitra) | Voice bot + crop diagnosis + live market prices for farmers | Next.js · Groq · OpenCV · Agmarknet |
 | [**RepoDoc**](https://github.com/ishikajais27/RepoDoc) | AI that reads your repo and writes verified docs | Next.js · Agentic LLM · Schema Validation |
 | [**VibeFiles**](https://github.com/ishikajais27/VibeFiles) | Screenshot → file scaffold · live on VS Code Marketplace | TypeScript · Groq Vision · Vercel |
 
